@@ -1,0 +1,21 @@
+
+[
+  {
+    "messageID": "6842710077",
+    "messageNumber": 1,
+    "recipient": "+27821234567",
+    "message": "i love you Thembi",
+    "messageHash": "68:1:ILOVEYOU",
+    "status": "SENT",
+    "sender": "Developer"
+  },
+  {
+    "messageID": "3938501330",
+    "messageNumber": 2,
+    "recipient": "+27834567890",
+    "message": "Hello,how are you?",
+    "messageHash": "39:2:HELLOHOW",
+    "status": "SENT",
+    "sender": "Developer"
+  }
+]
